@@ -1,0 +1,2 @@
+let edad = prompt("Ingrese su edad:");
+
