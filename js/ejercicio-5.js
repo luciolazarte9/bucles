@@ -9,6 +9,8 @@ Según el resultado, de 0 a 22, le corresponderá una letra de las siguientes:  
 Si lo introducido no es un número deberá indicarse con un alert y volver a preguntar.
 Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».
 
+
+Dentro de la carpeta pages se encuentra la pagina para correr esta funcion
 */
 
 function calculadoLetraDNI() {
